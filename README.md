@@ -1,2 +1,2 @@
 # PythonVisualization
-visaulaize
+In this project, we explored the international talent migration based on income and set out to find the difference between wealth in terms of socioeconomic index. We performed network analysis and interactive visualizations in Jupyter Lab to present migrant activity. We will also be looking at the degree of centrality its effect on the exchange of personnel between one country and the other.
